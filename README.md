@@ -1,8 +1,6 @@
 # Rudy
 
-## <img src="transparent_logo.png" width="200px" style="{float:left}"/> A completely regular sized 3D printer
-
----
+## <img src="transparent_logo.png" width="200px" style="{float:left}"/>
 
 ![render](CAD_pic.png)
 
