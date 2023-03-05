@@ -20,11 +20,11 @@ Every part has a flat surface you can print it on.
 
 There are some parts that will need you to tweak settings a bit. Most notorious is gonna be the Y carriages. Use this image to paint on the supports.
 
-![y](reference_pics\Y_carriage.png)
+![y](reference_pics/Y_carriage.png)
 
 For every other part you want the counterholes to be supported so they don't sag (especially if printing PETG)
 
-![support](reference_pics\counterhole.png)
+![support](reference_pics/counterhole.png)
 
 ## Part list
 
