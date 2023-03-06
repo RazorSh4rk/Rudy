@@ -51,8 +51,8 @@ Some parts you will have to mirror in your slicer. To do this in superslicer, ri
 | top_corner.stl | 2 | no |
 | y_carriage_left (Mirror #1).stl | 1 |  |
 | y_carriage.stl | 1 |  |
-| STLs\foot_left_logo.stl | 1 |  |
-| STLs\leveling_knob.stl | 3/4 | no |
-| STLs\limit_switch_spacer.stl | 2 | no |
-| STLs\logo_insert.stl | 1 |  |
-| STLs\mgn_rail_stopper.stl | 2 | no |
+| foot_left_logo.stl | 1 |  |
+| leveling_knob.stl | 3/4 | no |
+| limit_switch_spacer.stl | 2 | no |
+| logo_insert.stl | 1 |  |
+| mgn_rail_stopper.stl | 2 | no |
