@@ -6,7 +6,7 @@
 
 ## BOM
 
-// Note: I went specifically for a stealth black build, if you dont pay extra for black parts, it should cut from the cost. In addition, many parts are 3d printable, i will mark them with 
+// Note: Many parts are 3d printable, i will mark them with 
 a *. For testing, i'm using the 120mm bed but it should fit 150mm with about 140mm^2 usable print area.
 
 | Thing | Price | Link |
@@ -36,9 +36,8 @@ a *. For testing, i'm using the 120mm bed but it should fit 150mm with about 140
 | 3x NEMA17 | $25 | [ali - pancake](https://www.aliexpress.com/item/1005004708155105.html?spm=a2g0o.order_list.order_list_main.102.145f1802vFsakT) |
 | literally any mainboard | $20-30 | [ramps](https://www.aliexpress.com/item/1005001631916842.html?spm=a2g0o.cart.0.0.3bee38daN6zSnp&mp=1), [pico](https://www.aliexpress.com/item/1005004046648820.html?spm=a2g0o.productlist.main.3.3697bf5bSHKD6H)|
 | Orange Pi Zero 2 (or something to run klipper) | $30 | [link](https://www.aliexpress.com/item/1005001823662622.html?spm=a2g0o.productlist.main.1.3a4a1cacYamf5s) |
-| Bowden V6 clone (make sure it's correct voltage) | $4 | [link](https://www.aliexpress.com/item/32911028903.html?spm=a2g0o.productlist.main.3.798a3441eHMARD) |
-| 3010 fan (voltage!) | $1 | [link](https://www.aliexpress.com/item/1005001303394448.html?spm=a2g0o.productlist.main.1.59b619ea5o8NQ6) |
 | Power supply, depends on your mainboard | $20-30 | [link](https://www.aliexpress.com/item/1005004623323483.html?spm=a2g0o.cart.0.0.64b338dahPVvNM&mp=1) |
+| Extruder (titan or bmg recommended) | $5-10 | [titan link](https://www.aliexpress.com/item/10000404181488.html?spm=a2g0o.productlist.main.29.219338f9jwvYx4) |
 
 ## Alternative config for 150mm Z
 | Thing |  |  |
@@ -51,3 +50,5 @@ a *. For testing, i'm using the 120mm bed but it should fit 150mm with about 140
 ---
 
 // BOM subject to change
+
+## Check the TOOLHEAD.md for choosing a hotend and a toolhead
