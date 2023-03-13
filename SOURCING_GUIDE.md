@@ -13,7 +13,7 @@ a *. For testing, i'm using the 120mm bed but it should fit 150mm with about 140
 | M3x16 metric screws x2 (you can use M3x30 too) |  |  |
 | M3 nut x2 |  |  |
 | M2x10 metric screws x6 |  |  |
-| M5x50 metric screws x8 |  |  |
+| M5x30 metric screws x8 |  |  |
 | M3 (XD5.0XL4.0) inserts x100 (you need 20) | $7.34 | [link](https://www.aliexpress.com/item/4000232858343.html?spm=a2g0o.order_list.order_list_main.107.21ef1802qkslow) |
 | GT2 pulley x2 * | $6.34 | [link](https://www.aliexpress.com/item/32995102911.html?spm=a2g0o.order_list.order_list_main.107.145f1802vFsakT) |
 | 6mm GT2 belt x3m | $7.61 | [link](https://www.aliexpress.com/item/902692789.html?spm=a2g0o.order_list.order_list_main.108.145f1802vFsakT) |
