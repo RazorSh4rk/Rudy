@@ -27,7 +27,8 @@ a *. For testing, i'm using the 120mm bed but it should fit 150mm with about 140
 | OR 150mm reprap bed (untested) | $10 | [link](https://www.aliexpress.com/item/1005003245703342.html?spm=a2g0o.order_list.order_list_main.17.21ef1802qkslow) |
 | 8x20mm bed springs | $2 | [link](https://www.aliexpress.com/item/1005002971412129.html?spm=a2g0o.productlist.main.1.6c086ad58K77Ue) |
 | Electronics | --- | --- |
-| 3x NEMA17 | $25 | [ali - pancake](https://www.aliexpress.com/item/1005004708155105.html?spm=a2g0o.order_list.order_list_main.102.145f1802vFsakT) |
+| 3x NEMA17 | $25 | [link - pancake](https://www.aliexpress.com/item/1005004708155105.html?spm=a2g0o.order_list.order_list_main.102.145f1802vFsakT) |
+| other motor listing (cheaper if you wanna buy 5) | $38 | [link](https://www.aliexpress.com/item/1005001650755939.html?spm=a2g0o.cart.0.0.202b38da9QMU82&mp=1)
 | literally any mainboard | $20-30 | [ramps](https://www.aliexpress.com/item/1005001631916842.html?spm=a2g0o.cart.0.0.3bee38daN6zSnp&mp=1), [pico](https://www.aliexpress.com/item/1005004046648820.html?spm=a2g0o.productlist.main.3.3697bf5bSHKD6H)|
 | Orange Pi Zero 2 (or something to run klipper) | $30 | [link](https://www.aliexpress.com/item/1005001823662622.html?spm=a2g0o.productlist.main.1.3a4a1cacYamf5s) |
 | Power supply, depends on your mainboard | $20-30 | [link](https://www.aliexpress.com/item/1005004623323483.html?spm=a2g0o.cart.0.0.64b338dahPVvNM&mp=1) |
