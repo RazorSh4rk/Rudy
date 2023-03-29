@@ -1,7 +1,5 @@
 # Rudy
 
-<img src="transparent_logo.png" style="{width:200px; padding:auto;}"/>
-
 ![render](CAD_pic.png)
 
 ## GUIDES
