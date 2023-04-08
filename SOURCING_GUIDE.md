@@ -18,6 +18,7 @@ a *. For testing, i'm using the 120mm bed but it should fit 150mm with about 140
 | GT2 pulley x2 * | $6.34 | [link](https://www.aliexpress.com/item/32995102911.html?spm=a2g0o.order_list.order_list_main.107.145f1802vFsakT) |
 | 6mm GT2 belt x3m | $7.61 | [link](https://www.aliexpress.com/item/902692789.html?spm=a2g0o.order_list.order_list_main.108.145f1802vFsakT) |
 | F695 bearing x20 | $23 | [link](https://www.aliexpress.com/item/33001186278.html?spm=a2g0o.order_list.order_list_main.97.145f1802vFsakT) |
+| Cheaper F695 (i havent tested these yet) | $11 | [link](https://www.aliexpress.com/item/1005004095001000.html) |
 | 2020 extrusion 150mm x10 * | $32.75 | [link](https://www.aliexpress.com/item/33019355789.html?spm=a2g0o.cart.0.0.5c4138daTHlXeg&mp=1) |
 | mgn9c rail 150mm x3 * | $30 | [link](https://www.aliexpress.com/item/1005003787436599.html?spm=a2g0o.productlist.main.13.18b842f5EcsFd3&algo_pvid=b4a6afa4-cb7e-4f33-8298-45ea8625b379) |
 | mgn9c rail 100mm x2 * |  $17.20 | ^ |
