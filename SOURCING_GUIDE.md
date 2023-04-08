@@ -43,6 +43,12 @@ a *. For testing, i'm using the 120mm bed but it should fit 150mm with about 140
 | mgn9c rail 150mm x5 |  |  |
 | T8 leadscrew (150mm) P:2mm L:8mm|  |  |
 
+### Alt for whatever Z
+
+Replace the 4 longer extrusions with X long ones
+Replace 2 rails with X-50mm long ones
+Replace lead screw with x-50mm one
+
 ---
 
 // BOM subject to change
