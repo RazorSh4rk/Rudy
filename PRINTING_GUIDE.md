@@ -48,7 +48,7 @@ Some parts you will have to mirror in your slicer. To do this in superslicer, ri
 | motor_mount_B_spacer.stl | 1 |  |
 | skirt.stl | 3 | no |
 | spool_holder.stl | 1 |  |
-| top_corner.stl | 2 | no |
+| top_corner.stl | 2 | yes |
 | y_carriage_left (Mirror #1).stl | 1 |  |
 | y_carriage.stl | 1 |  |
 | foot_left_logo.stl | 1 |  |
