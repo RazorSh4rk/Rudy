@@ -32,6 +32,7 @@ a *. For testing, i'm using the 120mm bed but it should fit 150mm with about 140
 | other motor listing (cheaper if you wanna buy 5) | $38 | [link](https://www.aliexpress.com/item/1005001650755939.html?spm=a2g0o.cart.0.0.202b38da9QMU82&mp=1)
 | literally any mainboard | $20-30 | [ramps](https://www.aliexpress.com/item/1005001631916842.html?spm=a2g0o.cart.0.0.3bee38daN6zSnp&mp=1), [pico](https://www.aliexpress.com/item/1005004046648820.html?spm=a2g0o.productlist.main.3.3697bf5bSHKD6H)|
 | Orange Pi Zero 2 (or something to run klipper) | $30 | [link](https://www.aliexpress.com/item/1005001823662622.html?spm=a2g0o.productlist.main.1.3a4a1cacYamf5s) |
+| Limit switches x3 (MS-1A 13.5) | $1.50 | [link](https://www.aliexpress.com/item/4001033375208.html?) |
 | Power supply, depends on your mainboard | $20-30 | [link](https://www.aliexpress.com/item/1005004623323483.html?spm=a2g0o.cart.0.0.64b338dahPVvNM&mp=1) |
 | Extruder (titan or bmg recommended) | $5-10 | [titan link](https://www.aliexpress.com/item/10000404181488.html?spm=a2g0o.productlist.main.29.219338f9jwvYx4) |
 
