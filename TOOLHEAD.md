@@ -38,10 +38,30 @@ Cons:
 
     - default hardware is very weird, it uses both MK8 and Volcano parts
     - slightly more expensive to source
-    - i personally am not convinced of its hotend cooling capability
+    - I personally am not convinced of its hotend cooling capability
     - big, it will limit x and z travel
 
 [Rookery](https://www.printables.com/model/381953-rookery-bowden-tool-head)
+
+## DDRudy
+
+DDRudy is a direct drive toolhead custom-designed for the Rudy printer by @skillenmcnot. It is based off the Orbiter v2 extruder and the Trianglelabs CHC Mini hotend.
+Other hotend and extruder combinations are possible, although a different extruder may require moving the mounting hole positions in the model.
+
+Pros:
+    
+    - custom designed for Rudy
+    - supports different hotends and common replacement parts
+    - excellent cooling performance
+    - actively being improved
+    - editable model files available
+
+Cons:
+
+    - requires a moderately well-calibrated machine to print properly
+    - wider than Warhead, it will limit x travel to 90mm
+
+[DDRudy](https://github.com/skillenmcnot/DDRudy)
 
 # Salad fork
 
