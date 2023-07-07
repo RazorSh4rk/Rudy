@@ -1,6 +1,13 @@
 # Rudy
 
-![render](CAD_pic.png)
+![render](images/banner.png)
+
+<a href="https://www.youtube.com/watch?v=9IVwhJpB8qE">
+    See it in action
+    <img src="images/yt_logo.png" width=50>
+</a>
+
+---
 
 ## GUIDES
 
