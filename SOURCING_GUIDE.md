@@ -1,7 +1,10 @@
 # BOM
 
-// Note: Many parts are 3d printable, i will mark them with 
+// Note 0: Many parts are 3d printable, i will mark them with 
 a *. For testing, i'm using the 120mm bed but it should fit 150mm with about 140mm^2 usable print area.
+
+// Note 1: feel free to buy the cheapest parts you find, there are added tolerances in the 
+plastic parts that use the flexibility of PETG to let you pull everything square
 
 | Thing | Price | Link |
 | --- | --- | --- |
