@@ -28,6 +28,8 @@ For every other part you want the counterholes to be supported so they don't sag
 
 ## Part list
 
+### SCROLL DOWN FOR UPDATED MK2 AND MK3 PARTS
+
 Some parts you will have to mirror in your slicer. To do this in superslicer, right click the imported stl and click "mirror/along X axis". Only place the flat sides down after.
 
 | file | pieces | second one mirrored? |
@@ -56,3 +58,27 @@ Some parts you will have to mirror in your slicer. To do this in superslicer, ri
 | limit_switch_spacer.stl | 2 | no |
 | logo_insert.stl | 1 |  |
 | mgn_rail_stopper.stl | 2 | no |
+
+## Part list for MK2
+
+| file change | pieces | second mirrored? |
+| --- | --- | --- |
+| idlerv2-right.stl -> MK2/idlerv3_right.step| 1 |  |
+| idlerv2.stl -> MK2/idlerv3_left.step| 1 |  |
+| motor_mount_A.stl -> MK2/motor_mount_left.step | 2 | yes |
+| top_corner.stl -> not needed|  |  |
+| y_carriage_left -> MK2/y_carriage_v2.step | 1 |  |
+| y_carriage.stl -> MK2/y_carriage_v2_right_mirrored.step | 1 |  |
+| NEW PARTS |  |  |
+| MK2/belt_tensioner_left.step | 2 | yes |
+
+## Part list for MK3
+
+| file change | pieces | second mirrored? |
+| --- | --- | --- |
+| bed_frame.stl -> not needed |  |  |
+| NEW PARTS |  |  |
+| MK3/Z_reprap_screw.step | 1 |  |
+| MK3/Z_reprap_left.step | 2 | yes |
+| MK3/Z_reprap_v0_front | 1 |  |
+| MK3/Z_reprap_v0_side | 2 | no |
