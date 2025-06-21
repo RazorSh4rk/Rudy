@@ -1,5 +1,8 @@
 Uses a 2.8" CYD screen to add a control interface for like $10
 
+![img1](IMG_6435.jpg)
+![img1](IMG_6436.jpg)
+
 Installation: [CYD Klipper](https://github.com/suchmememanyskill/CYD-Klipper)
 
 BOM:
