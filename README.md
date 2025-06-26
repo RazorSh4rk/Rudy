@@ -1,5 +1,7 @@
 # Rudy
 
+![render](images/banner.png)
+
 ## What this _is_
 
 It's a coreXY 3d printer that is
@@ -20,7 +22,7 @@ It's a coreXY 3d printer that is
 
 - Something off the shelf
 
-![render](images/banner.png)
+![render](images/CAD.png)
 
 <a href="https://www.youtube.com/watch?v=9IVwhJpB8qE">
     See it in action
