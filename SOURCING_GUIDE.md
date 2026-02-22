@@ -58,6 +58,7 @@ The length of the Z rails is going to be the length of your Z 2020 extrusions _M
 | Cheaper F695 (they work fine) | $11 | [link](https://www.aliexpress.com/item/1005004095001000.html) |
 | mgn9c rail 150mm x3 * | $30 | [link](https://www.aliexpress.com/item/1005003787436599.html?spm=a2g0o.productlist.main.13.18b842f5EcsFd3&algo_pvid=b4a6afa4-cb7e-4f33-8298-45ea8625b379) |
 | 120mm voron 0 bed | $20 | [link](https://www.aliexpress.com/item/1005003229750626.html?spm=a2g0o.order_list.order_list_main.102.21ef1802qkslow) |
+| 120mm bed with heater | $10 | [link](https://www.aliexpress.us/item/3256804320524872.html) |
 | 8x20mm bed springs | $2 | [link](https://www.aliexpress.com/item/1005002971412129.html?spm=a2g0o.productlist.main.1.6c086ad58K77Ue) |
 | __Electronics__ |  |  |
 | 3x NEMA17 | $25 | [link - pancake](https://www.aliexpress.com/item/1005004708155105.html?spm=a2g0o.order_list.order_list_main.102.145f1802vFsakT) |
